@@ -1,0 +1,328 @@
+Constructing tool from setup file Setup_IK_gait_14.xml.
+
+Loaded model subject1_scaled from file C:\Users\u0101727\Documents\MyRepositories\predictivesimulations_rvc\predictivesimulations_2D\OpenSimModel\subject1\subject1_scaled.osim
+               MODEL: subject1_scaled
+         coordinates: 17
+              forces: 18
+           actuators: 18
+             muscles: 18
+            analyses: 0
+              probes: 0
+              bodies: 13
+              joints: 12
+         constraints: 0
+             markers: 33
+         controllers: 0
+  contact geometries: 0
+misc modelcomponents: 0
+Running tool gait_14.
+Loaded marker file C:\Users\u0101727\Documents\MyRepositories\predictivesimulations_rvc\predictivesimulations_2D\OpenSimModel\subject1\TRC\gait_14.trc (59 markers, 642 frames)
+number of markers 59
+Marker not used : RKNE_med RANK_med Foot_r4 Foot_r7 LKNE_med LANK_med foot_l4 foot_l7
+pelvis_list (1) is locked
+pelvis_rot (2) is locked
+hip_adduction_r (7) is locked
+hip_rotation_r (8) is locked
+hip_adduction_l (12) is locked
+hip_rotation_l (13) is locked
+Number locked: 6
+Number clamped: 0
+Lower: 
+Upper: 
+Time = 3.05: number of used markers = 25
+Frame 0 (t=3.05):	total squared error = 0.0194031, marker error: RMS=0.027859, max=0.057047 (Foot_r1)
+Time = 3.06: number of used markers = 25
+Frame 1 (t=3.06):	total squared error = 0.0193427, marker error: RMS=0.0278156, max=0.0577494 (Foot_r1)
+Time = 3.07: number of used markers = 25
+Frame 2 (t=3.07):	total squared error = 0.0191898, marker error: RMS=0.0277055, max=0.0577441 (Foot_r1)
+Time = 3.08: number of used markers = 25
+Frame 3 (t=3.08):	total squared error = 0.018995, marker error: RMS=0.0275645, max=0.0578128 (Foot_r1)
+Time = 3.09: number of used markers = 25
+Frame 4 (t=3.09):	total squared error = 0.0188017, marker error: RMS=0.0274239, max=0.0582171 (Foot_r1)
+Time = 3.1: number of used markers = 25
+Frame 5 (t=3.1):	total squared error = 0.0185642, marker error: RMS=0.0272501, max=0.0582576 (Foot_r1)
+Time = 3.11: number of used markers = 25
+Frame 6 (t=3.11):	total squared error = 0.0182911, marker error: RMS=0.0270489, max=0.0583496 (Foot_r1)
+Time = 3.12: number of used markers = 25
+Frame 7 (t=3.12):	total squared error = 0.0181703, marker error: RMS=0.0269595, max=0.059115 (Foot_r1)
+Time = 3.13: number of used markers = 25
+Frame 8 (t=3.13):	total squared error = 0.0181496, marker error: RMS=0.0269441, max=0.0593271 (Foot_r1)
+Time = 3.14: number of used markers = 25
+Frame 9 (t=3.14):	total squared error = 0.0181836, marker error: RMS=0.0269693, max=0.0594747 (Foot_r1)
+RPSI not visible
+Time = 3.15: number of used markers = 24
+Frame 10 (t=3.15):	total squared error = 0.0181759, marker error: RMS=0.0275196, max=0.0594186 (Foot_r1)
+Time = 3.16: number of used markers = 25
+Frame 11 (t=3.16):	total squared error = 0.0184425, marker error: RMS=0.0271606, max=0.0595193 (Foot_r1)
+Time = 3.17: number of used markers = 25
+Frame 12 (t=3.17):	total squared error = 0.0185446, marker error: RMS=0.0272357, max=0.0591596 (Foot_r1)
+Time = 3.18: number of used markers = 25
+Frame 13 (t=3.18):	total squared error = 0.0186232, marker error: RMS=0.0272934, max=0.0581573 (Foot_r1)
+Time = 3.19: number of used markers = 25
+Frame 14 (t=3.19):	total squared error = 0.018607, marker error: RMS=0.0272815, max=0.0569879 (Foot_r1)
+Time = 3.2: number of used markers = 25
+Frame 15 (t=3.2):	total squared error = 0.0183631, marker error: RMS=0.0271021, max=0.0558769 (Foot_r1)
+Time = 3.21: number of used markers = 25
+Frame 16 (t=3.21):	total squared error = 0.0179818, marker error: RMS=0.0268193, max=0.0546014 (Foot_r1)
+Time = 3.22: number of used markers = 25
+Frame 17 (t=3.22):	total squared error = 0.0174775, marker error: RMS=0.0264405, max=0.052578 (Foot_r1)
+Time = 3.23: number of used markers = 25
+Frame 18 (t=3.23):	total squared error = 0.0170944, marker error: RMS=0.0261491, max=0.0508952 (Foot_r1)
+Time = 3.24: number of used markers = 25
+Frame 19 (t=3.24):	total squared error = 0.0168017, marker error: RMS=0.0259243, max=0.0492197 (Foot_r1)
+Time = 3.25: number of used markers = 25
+Frame 20 (t=3.25):	total squared error = 0.0164183, marker error: RMS=0.0256268, max=0.0465683 (Foot_r1)
+Time = 3.26: number of used markers = 25
+Frame 21 (t=3.26):	total squared error = 0.0159477, marker error: RMS=0.0252568, max=0.0440859 (Foot_r1)
+Time = 3.27: number of used markers = 25
+Frame 22 (t=3.27):	total squared error = 0.0154335, marker error: RMS=0.0248463, max=0.0441874 (foot_l6)
+Time = 3.28: number of used markers = 25
+Frame 23 (t=3.28):	total squared error = 0.01491, marker error: RMS=0.0244213, max=0.0450272 (foot_l6)
+Time = 3.29: number of used markers = 25
+Frame 24 (t=3.29):	total squared error = 0.014615, marker error: RMS=0.0241785, max=0.0454105 (foot_l6)
+Time = 3.3: number of used markers = 25
+Frame 25 (t=3.3):	total squared error = 0.0144554, marker error: RMS=0.0240461, max=0.0453982 (foot_l6)
+Time = 3.31: number of used markers = 25
+Frame 26 (t=3.31):	total squared error = 0.0145596, marker error: RMS=0.0241326, max=0.0455418 (foot_l6)
+Time = 3.32: number of used markers = 25
+Frame 27 (t=3.32):	total squared error = 0.0148751, marker error: RMS=0.0243927, max=0.0454772 (foot_l6)
+Time = 3.33: number of used markers = 25
+Frame 28 (t=3.33):	total squared error = 0.0153313, marker error: RMS=0.024764, max=0.046448 (foot_l6)
+Time = 3.34: number of used markers = 25
+Frame 29 (t=3.34):	total squared error = 0.0157766, marker error: RMS=0.025121, max=0.0473613 (foot_l6)
+Time = 3.35: number of used markers = 25
+Frame 30 (t=3.35):	total squared error = 0.0160538, marker error: RMS=0.0253407, max=0.0477319 (foot_l6)
+Time = 3.36: number of used markers = 25
+Frame 31 (t=3.36):	total squared error = 0.016382, marker error: RMS=0.0255984, max=0.0484971 (foot_l6)
+Time = 3.37: number of used markers = 25
+Frame 32 (t=3.37):	total squared error = 0.0166922, marker error: RMS=0.0258397, max=0.0491112 (foot_l6)
+Time = 3.38: number of used markers = 25
+Frame 33 (t=3.38):	total squared error = 0.0170583, marker error: RMS=0.0261215, max=0.0496752 (foot_l6)
+Time = 3.39: number of used markers = 25
+Frame 34 (t=3.39):	total squared error = 0.0176198, marker error: RMS=0.0265479, max=0.0502899 (foot_l6)
+Time = 3.4: number of used markers = 25
+Frame 35 (t=3.4):	total squared error = 0.0182516, marker error: RMS=0.0270197, max=0.0509338 (foot_l6)
+Time = 3.41: number of used markers = 25
+Frame 36 (t=3.41):	total squared error = 0.0188206, marker error: RMS=0.0274377, max=0.0515816 (foot_l6)
+Time = 3.42: number of used markers = 25
+Frame 37 (t=3.42):	total squared error = 0.0193655, marker error: RMS=0.027832, max=0.0521579 (foot_l6)
+Time = 3.43: number of used markers = 25
+Frame 38 (t=3.43):	total squared error = 0.0198948, marker error: RMS=0.0282098, max=0.052737 (foot_l6)
+Time = 3.44: number of used markers = 25
+Frame 39 (t=3.44):	total squared error = 0.0204628, marker error: RMS=0.0286096, max=0.0532542 (foot_l6)
+Time = 3.45: number of used markers = 25
+Frame 40 (t=3.45):	total squared error = 0.0208762, marker error: RMS=0.0288972, max=0.0537043 (foot_l6)
+Time = 3.46: number of used markers = 25
+Frame 41 (t=3.46):	total squared error = 0.0213627, marker error: RMS=0.029232, max=0.05416 (foot_l6)
+Time = 3.47: number of used markers = 25
+Frame 42 (t=3.47):	total squared error = 0.0217439, marker error: RMS=0.0294916, max=0.054511 (foot_l6)
+Time = 3.48: number of used markers = 25
+Frame 43 (t=3.48):	total squared error = 0.0220256, marker error: RMS=0.0296821, max=0.0548768 (foot_l6)
+Time = 3.49: number of used markers = 25
+Frame 44 (t=3.49):	total squared error = 0.0222514, marker error: RMS=0.0298338, max=0.0551545 (foot_l6)
+Time = 3.5: number of used markers = 25
+Frame 45 (t=3.5):	total squared error = 0.0225297, marker error: RMS=0.0300198, max=0.0556011 (foot_l6)
+Time = 3.51: number of used markers = 25
+Frame 46 (t=3.51):	total squared error = 0.0228028, marker error: RMS=0.0302012, max=0.0558723 (foot_l6)
+Time = 3.52: number of used markers = 25
+Frame 47 (t=3.52):	total squared error = 0.0230252, marker error: RMS=0.0303481, max=0.0561551 (foot_l6)
+Time = 3.53: number of used markers = 25
+Frame 48 (t=3.53):	total squared error = 0.0231376, marker error: RMS=0.0304221, max=0.0563525 (foot_l6)
+Time = 3.54: number of used markers = 25
+Frame 49 (t=3.54):	total squared error = 0.0231855, marker error: RMS=0.0304536, max=0.0565887 (foot_l6)
+Time = 3.55: number of used markers = 25
+Frame 50 (t=3.55):	total squared error = 0.0232305, marker error: RMS=0.0304831, max=0.056711 (foot_l6)
+Time = 3.56: number of used markers = 25
+Frame 51 (t=3.56):	total squared error = 0.0231971, marker error: RMS=0.0304612, max=0.0566862 (foot_l6)
+Time = 3.57: number of used markers = 25
+Frame 52 (t=3.57):	total squared error = 0.0231586, marker error: RMS=0.0304359, max=0.0568518 (foot_l6)
+Time = 3.58: number of used markers = 25
+Frame 53 (t=3.58):	total squared error = 0.0231312, marker error: RMS=0.0304179, max=0.0567825 (foot_l6)
+Time = 3.59: number of used markers = 25
+Frame 54 (t=3.59):	total squared error = 0.0231837, marker error: RMS=0.0304524, max=0.0568118 (foot_l6)
+Time = 3.6: number of used markers = 25
+Frame 55 (t=3.6):	total squared error = 0.0232451, marker error: RMS=0.0304927, max=0.0568367 (foot_l6)
+Time = 3.61: number of used markers = 25
+Frame 56 (t=3.61):	total squared error = 0.0233055, marker error: RMS=0.0305323, max=0.0567576 (foot_l6)
+Time = 3.62: number of used markers = 25
+Frame 57 (t=3.62):	total squared error = 0.0233528, marker error: RMS=0.0305632, max=0.056779 (foot_l6)
+Time = 3.63: number of used markers = 25
+Frame 58 (t=3.63):	total squared error = 0.0232269, marker error: RMS=0.0304808, max=0.0566694 (foot_l6)
+Time = 3.64: number of used markers = 25
+Frame 59 (t=3.64):	total squared error = 0.0231997, marker error: RMS=0.0304629, max=0.0564391 (foot_l6)
+Time = 3.65: number of used markers = 25
+Frame 60 (t=3.65):	total squared error = 0.0231739, marker error: RMS=0.030446, max=0.0561474 (foot_l6)
+Time = 3.66: number of used markers = 25
+Frame 61 (t=3.66):	total squared error = 0.0232641, marker error: RMS=0.0305051, max=0.0561489 (foot_l6)
+Time = 3.67: number of used markers = 25
+Frame 62 (t=3.67):	total squared error = 0.0232566, marker error: RMS=0.0305002, max=0.0559609 (foot_l6)
+Time = 3.68: number of used markers = 25
+Frame 63 (t=3.68):	total squared error = 0.0233228, marker error: RMS=0.0305436, max=0.0557486 (foot_l6)
+Time = 3.69: number of used markers = 25
+Frame 64 (t=3.69):	total squared error = 0.0234837, marker error: RMS=0.0306488, max=0.0555356 (foot_l6)
+Time = 3.7: number of used markers = 25
+Frame 65 (t=3.7):	total squared error = 0.0237457, marker error: RMS=0.0308193, max=0.0553221 (foot_l6)
+Time = 3.71: number of used markers = 25
+Frame 66 (t=3.71):	total squared error = 0.024151, marker error: RMS=0.0310812, max=0.0551623 (foot_l6)
+Time = 3.72: number of used markers = 25
+Frame 67 (t=3.72):	total squared error = 0.0244879, marker error: RMS=0.0312972, max=0.0550313 (foot_l6)
+Time = 3.73: number of used markers = 25
+Frame 68 (t=3.73):	total squared error = 0.0249588, marker error: RMS=0.0315967, max=0.056161 (Foot_r1)
+Time = 3.74: number of used markers = 25
+Frame 69 (t=3.74):	total squared error = 0.0255023, marker error: RMS=0.0319389, max=0.0578195 (Foot_r1)
+Time = 3.75: number of used markers = 25
+Frame 70 (t=3.75):	total squared error = 0.0257007, marker error: RMS=0.0320629, max=0.0586955 (Foot_r1)
+Time = 3.76: number of used markers = 25
+Frame 71 (t=3.76):	total squared error = 0.0261331, marker error: RMS=0.0323315, max=0.0601413 (Foot_r1)
+Time = 3.77: number of used markers = 25
+Frame 72 (t=3.77):	total squared error = 0.0265024, marker error: RMS=0.0325591, max=0.0608963 (Foot_r1)
+Time = 3.78: number of used markers = 25
+Frame 73 (t=3.78):	total squared error = 0.0269025, marker error: RMS=0.032804, max=0.0617891 (Foot_r1)
+Time = 3.79: number of used markers = 25
+Frame 74 (t=3.79):	total squared error = 0.0275059, marker error: RMS=0.0331698, max=0.0626843 (Foot_r1)
+Time = 3.8: number of used markers = 25
+Frame 75 (t=3.8):	total squared error = 0.0284103, marker error: RMS=0.0337107, max=0.0656424 (Foot_r1)
+Time = 3.81: number of used markers = 25
+Frame 76 (t=3.81):	total squared error = 0.028485, marker error: RMS=0.033755, max=0.0637036 (Foot_r1)
+Time = 3.82: number of used markers = 25
+Frame 77 (t=3.82):	total squared error = 0.0282219, marker error: RMS=0.0335988, max=0.0625641 (Foot_r1)
+Time = 3.83: number of used markers = 25
+Frame 78 (t=3.83):	total squared error = 0.0277694, marker error: RMS=0.0333283, max=0.0616918 (Foot_r1)
+Time = 3.84: number of used markers = 25
+Frame 79 (t=3.84):	total squared error = 0.0273322, marker error: RMS=0.0330649, max=0.0613833 (Foot_r1)
+Time = 3.85: number of used markers = 25
+Frame 80 (t=3.85):	total squared error = 0.026808, marker error: RMS=0.0327463, max=0.0604225 (Foot_r1)
+Time = 3.86: number of used markers = 25
+Frame 81 (t=3.86):	total squared error = 0.0264988, marker error: RMS=0.0325569, max=0.0602866 (Foot_r1)
+Time = 3.87: number of used markers = 25
+Frame 82 (t=3.87):	total squared error = 0.0263481, marker error: RMS=0.0324642, max=0.060316 (Foot_r1)
+Time = 3.88: number of used markers = 25
+Frame 83 (t=3.88):	total squared error = 0.0261876, marker error: RMS=0.0323652, max=0.0602784 (Foot_r1)
+Time = 3.89: number of used markers = 25
+Frame 84 (t=3.89):	total squared error = 0.0256256, marker error: RMS=0.032016, max=0.0604999 (Foot_r1)
+Time = 3.9: number of used markers = 25
+Frame 85 (t=3.9):	total squared error = 0.0253303, marker error: RMS=0.031831, max=0.060789 (Foot_r1)
+Time = 3.91: number of used markers = 25
+Frame 86 (t=3.91):	total squared error = 0.0250025, marker error: RMS=0.0316243, max=0.0611425 (Foot_r1)
+Time = 3.92: number of used markers = 25
+Frame 87 (t=3.92):	total squared error = 0.0251952, marker error: RMS=0.031746, max=0.061457 (Foot_r1)
+Time = 3.93: number of used markers = 25
+Frame 88 (t=3.93):	total squared error = 0.025597, marker error: RMS=0.0319981, max=0.0619064 (Foot_r1)
+Time = 3.94: number of used markers = 25
+Frame 89 (t=3.94):	total squared error = 0.0261961, marker error: RMS=0.0323704, max=0.062445 (Foot_r1)
+Time = 3.95: number of used markers = 25
+Frame 90 (t=3.95):	total squared error = 0.0268881, marker error: RMS=0.0327952, max=0.06322 (Foot_r1)
+Time = 3.96: number of used markers = 25
+Frame 91 (t=3.96):	total squared error = 0.0275659, marker error: RMS=0.033206, max=0.0639799 (Foot_r1)
+Time = 3.97: number of used markers = 25
+Frame 92 (t=3.97):	total squared error = 0.0282336, marker error: RMS=0.0336057, max=0.0646832 (Foot_r1)
+Time = 3.98: number of used markers = 25
+Frame 93 (t=3.98):	total squared error = 0.0289536, marker error: RMS=0.0340315, max=0.0656919 (Foot_r1)
+Time = 3.99: number of used markers = 25
+Frame 94 (t=3.99):	total squared error = 0.0294908, marker error: RMS=0.0343458, max=0.0661898 (Foot_r1)
+Time = 4: number of used markers = 25
+Frame 95 (t=4):	total squared error = 0.0299145, marker error: RMS=0.0345916, max=0.0665397 (Foot_r1)
+Time = 4.01: number of used markers = 25
+Frame 96 (t=4.01):	total squared error = 0.0299719, marker error: RMS=0.0346248, max=0.0667154 (Foot_r1)
+Time = 4.02: number of used markers = 25
+Frame 97 (t=4.02):	total squared error = 0.0298937, marker error: RMS=0.0345796, max=0.0673317 (Foot_r1)
+Time = 4.03: number of used markers = 25
+Frame 98 (t=4.03):	total squared error = 0.029584, marker error: RMS=0.0344, max=0.0673402 (Foot_r1)
+Time = 4.04: number of used markers = 25
+Frame 99 (t=4.04):	total squared error = 0.0293519, marker error: RMS=0.0342648, max=0.0676593 (Foot_r1)
+Time = 4.05: number of used markers = 25
+Frame 100 (t=4.05):	total squared error = 0.0290851, marker error: RMS=0.0341087, max=0.0680373 (Foot_r1)
+Time = 4.06: number of used markers = 25
+Frame 101 (t=4.06):	total squared error = 0.0288539, marker error: RMS=0.0339729, max=0.0684423 (Foot_r1)
+Time = 4.07: number of used markers = 25
+Frame 102 (t=4.07):	total squared error = 0.0286051, marker error: RMS=0.0338261, max=0.0689105 (Foot_r1)
+Time = 4.08: number of used markers = 25
+Frame 103 (t=4.08):	total squared error = 0.0281934, marker error: RMS=0.0335818, max=0.0693916 (Foot_r1)
+Time = 4.09: number of used markers = 25
+Frame 104 (t=4.09):	total squared error = 0.027871, marker error: RMS=0.0333892, max=0.0697555 (Foot_r1)
+Time = 4.1: number of used markers = 25
+Frame 105 (t=4.1):	total squared error = 0.0276647, marker error: RMS=0.0332654, max=0.0700155 (Foot_r1)
+Time = 4.11: number of used markers = 25
+Frame 106 (t=4.11):	total squared error = 0.0275303, marker error: RMS=0.0331845, max=0.0706023 (Foot_r1)
+Time = 4.12: number of used markers = 25
+Frame 107 (t=4.12):	total squared error = 0.0274909, marker error: RMS=0.0331608, max=0.0708777 (Foot_r1)
+Time = 4.13: number of used markers = 25
+Frame 108 (t=4.13):	total squared error = 0.0276036, marker error: RMS=0.0332287, max=0.0718399 (Foot_r1)
+Time = 4.14: number of used markers = 25
+Frame 109 (t=4.14):	total squared error = 0.0278114, marker error: RMS=0.0333535, max=0.0730543 (Foot_r1)
+Time = 4.15: number of used markers = 25
+Frame 110 (t=4.15):	total squared error = 0.0279717, marker error: RMS=0.0334495, max=0.0734623 (Foot_r1)
+Time = 4.16: number of used markers = 25
+Frame 111 (t=4.16):	total squared error = 0.0280127, marker error: RMS=0.033474, max=0.0733377 (Foot_r1)
+Time = 4.17: number of used markers = 25
+Frame 112 (t=4.17):	total squared error = 0.0282312, marker error: RMS=0.0336043, max=0.0740843 (Foot_r1)
+Time = 4.18: number of used markers = 25
+Frame 113 (t=4.18):	total squared error = 0.0284357, marker error: RMS=0.0337258, max=0.0747199 (Foot_r1)
+Time = 4.19: number of used markers = 25
+Frame 114 (t=4.19):	total squared error = 0.0288051, marker error: RMS=0.0339441, max=0.0752942 (Foot_r1)
+Time = 4.2: number of used markers = 25
+Frame 115 (t=4.2):	total squared error = 0.0291571, marker error: RMS=0.0341509, max=0.0757798 (Foot_r1)
+Time = 4.21: number of used markers = 25
+Frame 116 (t=4.21):	total squared error = 0.0295108, marker error: RMS=0.0343574, max=0.0757631 (Foot_r1)
+Time = 4.22: number of used markers = 25
+Frame 117 (t=4.22):	total squared error = 0.0300756, marker error: RMS=0.0346846, max=0.0762563 (Foot_r1)
+Time = 4.23: number of used markers = 25
+Frame 118 (t=4.23):	total squared error = 0.0307142, marker error: RMS=0.035051, max=0.0759163 (Foot_r1)
+Time = 4.24: number of used markers = 25
+Frame 119 (t=4.24):	total squared error = 0.0316322, marker error: RMS=0.0355709, max=0.0760609 (Foot_r1)
+Time = 4.25: number of used markers = 25
+Frame 120 (t=4.25):	total squared error = 0.0325531, marker error: RMS=0.0360849, max=0.0754028 (Foot_r1)
+Time = 4.26: number of used markers = 25
+Frame 121 (t=4.26):	total squared error = 0.0332332, marker error: RMS=0.0364599, max=0.0748994 (Foot_r1)
+RPSI not visible
+Time = 4.27: number of used markers = 24
+Frame 122 (t=4.27):	total squared error = 0.0336169, marker error: RMS=0.037426, max=0.0742584 (Foot_r1)
+Time = 4.28: number of used markers = 25
+Frame 123 (t=4.28):	total squared error = 0.0339644, marker error: RMS=0.0368589, max=0.0734584 (Foot_r1)
+Time = 4.29: number of used markers = 25
+Frame 124 (t=4.29):	total squared error = 0.0340163, marker error: RMS=0.036887, max=0.07183 (Foot_r1)
+Time = 4.3: number of used markers = 25
+Frame 125 (t=4.3):	total squared error = 0.0341941, marker error: RMS=0.0369833, max=0.0706633 (Foot_r1)
+Time = 4.31: number of used markers = 25
+Frame 126 (t=4.31):	total squared error = 0.0345486, marker error: RMS=0.0371745, max=0.0694195 (Foot_r1)
+Time = 4.32: number of used markers = 25
+Frame 127 (t=4.32):	total squared error = 0.0349745, marker error: RMS=0.0374029, max=0.068047 (Foot_r1)
+Time = 4.33: number of used markers = 25
+Frame 128 (t=4.33):	total squared error = 0.035309, marker error: RMS=0.0375814, max=0.0664604 (Foot_r1)
+Time = 4.34: number of used markers = 25
+Frame 129 (t=4.34):	total squared error = 0.0348111, marker error: RMS=0.0373155, max=0.0647727 (foot_l6)
+Time = 4.35: number of used markers = 25
+Frame 130 (t=4.35):	total squared error = 0.0342878, marker error: RMS=0.0370339, max=0.0652592 (foot_l6)
+Time = 4.36: number of used markers = 25
+Frame 131 (t=4.36):	total squared error = 0.0331997, marker error: RMS=0.0364416, max=0.0648275 (foot_l6)
+Time = 4.37: number of used markers = 25
+Frame 132 (t=4.37):	total squared error = 0.0321286, marker error: RMS=0.0358489, max=0.0635736 (foot_l6)
+Time = 4.38: number of used markers = 25
+Frame 133 (t=4.38):	total squared error = 0.0310148, marker error: RMS=0.035222, max=0.0622149 (foot_l6)
+Time = 4.39: number of used markers = 25
+Frame 134 (t=4.39):	total squared error = 0.030049, marker error: RMS=0.0346693, max=0.061594 (foot_l6)
+Time = 4.4: number of used markers = 25
+Frame 135 (t=4.4):	total squared error = 0.0293257, marker error: RMS=0.0342495, max=0.0614693 (foot_l6)
+Time = 4.41: number of used markers = 25
+Frame 136 (t=4.41):	total squared error = 0.0289488, marker error: RMS=0.0340287, max=0.0620989 (foot_l6)
+Time = 4.42: number of used markers = 25
+Frame 137 (t=4.42):	total squared error = 0.0285824, marker error: RMS=0.0338126, max=0.0617784 (foot_l6)
+Time = 4.43: number of used markers = 25
+Frame 138 (t=4.43):	total squared error = 0.0282833, marker error: RMS=0.0336353, max=0.0617382 (foot_l6)
+Time = 4.44: number of used markers = 25
+Frame 139 (t=4.44):	total squared error = 0.0279061, marker error: RMS=0.0334102, max=0.0619544 (foot_l6)
+Time = 4.45: number of used markers = 25
+Frame 140 (t=4.45):	total squared error = 0.0273264, marker error: RMS=0.0330614, max=0.0618159 (foot_l6)
+Time = 4.46: number of used markers = 25
+Frame 141 (t=4.46):	total squared error = 0.0270556, marker error: RMS=0.0328972, max=0.0618822 (foot_l6)
+Time = 4.47: number of used markers = 25
+Frame 142 (t=4.47):	total squared error = 0.0269785, marker error: RMS=0.0328503, max=0.0619651 (foot_l6)
+Time = 4.48: number of used markers = 25
+Frame 143 (t=4.48):	total squared error = 0.0272489, marker error: RMS=0.0330145, max=0.0621735 (foot_l6)
+Time = 4.49: number of used markers = 25
+Frame 144 (t=4.49):	total squared error = 0.0271715, marker error: RMS=0.0329675, max=0.062453 (foot_l6)
+Time = 4.5: number of used markers = 25
+Frame 145 (t=4.5):	total squared error = 0.027332, marker error: RMS=0.0330648, max=0.0625937 (foot_l6)
+InverseKinematicsKSTool completed 145 frames in 2.371s
+
+KS compute time = 2503ms
